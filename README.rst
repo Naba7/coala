@@ -39,3 +39,4 @@ coala supports popular programming languages including **Python**, **C/C++**, **
  :target: https://waffle.io/coala/coala/metrics/throughput
  :alt: 'Throughput Graph'
 I made some changes.
+I used the GUI way rather than Command Line
